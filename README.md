@@ -1,6 +1,6 @@
-# servidor-nodejs-fastify
+# Back-End com Express
 
-Criando servidor http básico no node.js usando Fastify.js
+Criando servidor http básico no node.js usando express.js
 
 **Instale as Depedências**
 
